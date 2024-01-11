@@ -1,3 +1,9 @@
+---
+dsComponent: alert-notice
+dsVersion: 3.0
+docs: https://opensource.ebay.com/ebayui-core-react/main/?path=/story/ebay-page-notice--confirmation-message
+---
+
 # ebay-page-notice
 
 ## Demo
