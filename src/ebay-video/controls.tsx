@@ -37,6 +37,7 @@ export function customControls(onReport = () => {}): { Report } {
 function appendChild(container: HTMLElement, reactElement: ReactElement, callback: (child: ChildNode) => void): void {
     const tempEl: HTMLElement = document.createElement('div')
 
+    // @ts-ignore
     ReactDOM.render(reactElement, tempEl, () => {
         const child = tempEl.firstChild
         container.appendChild(child)
