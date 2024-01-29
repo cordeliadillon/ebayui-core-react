@@ -1,3 +1,9 @@
+---
+design-system:
+  name: pagination
+  version:
+---
+
 # EbayPagination
 
 The `<EbayPagination>` is a tag used to create a pagination navigation. It will display up to 9 page links.

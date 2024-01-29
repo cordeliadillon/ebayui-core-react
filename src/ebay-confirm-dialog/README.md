@@ -1,3 +1,9 @@
+---
+design-system:
+  name: alert-dialog
+  version:
+---
+
 # EbayConfirmDialog
 
 ## Usage

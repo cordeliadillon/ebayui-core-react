@@ -1,3 +1,9 @@
+---
+design-system:
+  name: breadcrumb
+  version:
+---
+
 # EbayBreadcrumbs
 
 ## Demo

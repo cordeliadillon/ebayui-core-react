@@ -1,3 +1,10 @@
+---
+design-system:
+  group: button
+  name: split-button
+  version:
+---
+
 # EbaySplitButton
 
 ## Demo

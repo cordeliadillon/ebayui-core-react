@@ -1,3 +1,9 @@
+---
+design-system:
+  name: panel
+  version:
+---
+
 # EbayPanelDialog
 
 ## Usage

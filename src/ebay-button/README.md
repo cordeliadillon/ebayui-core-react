@@ -1,3 +1,10 @@
+---
+design-system:
+  group: button
+  name: button
+  version:
+---
+
 # EbayButton
 
 ## Demo

@@ -1,3 +1,9 @@
+---
+design-system:
+  name: switch
+  version:
+---
+
 # ebay-switch
 
 ## Demo

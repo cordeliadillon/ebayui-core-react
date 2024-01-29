@@ -1,3 +1,9 @@
+---
+design-system:
+  name: calendar
+  version: 
+---
+
 # EbayCalendar
 
 ## Usage

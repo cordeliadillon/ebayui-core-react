@@ -1,3 +1,10 @@
+---
+design-system:
+  name: icon
+  version:
+---
+
+
 # ebay-icon
 The component will include the actual SVG markup in the HTML and then reference the chosen icon.
 

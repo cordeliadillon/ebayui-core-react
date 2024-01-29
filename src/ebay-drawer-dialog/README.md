@@ -1,3 +1,9 @@
+---
+design-system:
+  name: bottom-sheet
+  version:
+---
+
 # EbayDrawerDialog
 
 ## Usage

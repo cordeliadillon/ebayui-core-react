@@ -1,3 +1,9 @@
+---
+design-system:
+  name: signal
+  version:
+---
+
 # ebay-signal
 
 ##Description

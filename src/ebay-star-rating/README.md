@@ -1,3 +1,9 @@
+---
+design-system:
+  name: review-rating
+  version:
+---
+
 # ebay-star-rating
 For full stars use (rating from 0-5): ebay-star-rating-{rating} For half stars use: ebay-star-rating-{rating}-5 DS v1.0.0
 ## Demo

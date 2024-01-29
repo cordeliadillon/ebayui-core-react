@@ -1,3 +1,9 @@
+---
+design-system:
+  name: dropdown
+  version:
+---
+
 # EbaySelect
 This component is used to create a native `<select>` form element with default browser styling.
 

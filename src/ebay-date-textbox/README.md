@@ -1,3 +1,9 @@
+---
+design-system:
+  name: date-picker
+  version:
+---
+
 # EbayDateTextbox
 
 ## Usage

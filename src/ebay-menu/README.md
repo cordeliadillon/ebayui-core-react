@@ -1,3 +1,9 @@
+---
+design-system:
+  name: menu
+  version:
+---
+
 # ebay-menu
 
 ## Demo

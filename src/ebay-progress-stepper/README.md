@@ -1,3 +1,9 @@
+---
+design-system:
+  name: progress-stepper
+  version:
+---
+
 # ebay-progress-stepper
 
 ## Demo

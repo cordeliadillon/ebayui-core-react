@@ -1,3 +1,9 @@
+---
+design-system:
+  name: checkbox
+  version:
+---
+
 # ebay-checkbox
 
 ## Demo

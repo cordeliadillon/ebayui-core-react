@@ -1,3 +1,9 @@
+---
+design-system:
+  name: alert-notice
+  version:
+---
+
 # ebay-inline-notice
 
 ## Demo

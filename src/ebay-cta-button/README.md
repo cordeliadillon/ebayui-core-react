@@ -1,3 +1,10 @@
+---
+design-system:
+  group: button
+  name: cta-button
+  version:
+---
+
 # EbayCtaButton
 
 ## Demo

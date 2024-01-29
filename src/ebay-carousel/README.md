@@ -1,3 +1,9 @@
+---
+design-system:
+  name: carousel
+  version: 
+---
+
 # EbayCarousel
 
 ## Usage

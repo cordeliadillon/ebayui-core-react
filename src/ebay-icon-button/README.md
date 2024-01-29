@@ -1,3 +1,10 @@
+---
+design-system:
+  group: button
+  name: icon-button
+  version:
+---
+
 # EbayIconButton
 This is a circular button with an icon only.
 

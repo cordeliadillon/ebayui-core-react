@@ -1,3 +1,9 @@
+---
+design-system:
+  name: radio-button
+  version:
+---
+
 # ebay-radio
 
 ## Demo

@@ -1,7 +1,7 @@
 ---
-dsComponent: tourtip
-dsVersion:
-doc: https://opensource.ebay.com/ebayui-core-react/main/?path=/story/ebay-tourtip--default-tourtip
+design-system:
+  name: tourtip
+  version: 
 ---
 
 # ebay-tourtip

@@ -1,3 +1,9 @@
+---
+design-system:
+  name: progress-spinner
+  version:
+---
+
 # EbayProgressSpinner
 
 ## Demo

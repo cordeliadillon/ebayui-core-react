@@ -1,3 +1,9 @@
+---
+design-system:
+  name: dropdown
+  version:
+---
+
 # ebay-listbox-button
 
 ## Demo

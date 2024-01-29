@@ -1,3 +1,10 @@
+---
+design-system:
+  name: snackbar
+  version:
+---
+
+
 # EbaySnackbarDialog
 
 A snackbar is a non-modal dialog that appears in response to a lightweight user action. It disappears automatically after a minimum of 6 seconds.

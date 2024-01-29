@@ -1,3 +1,9 @@
+---
+design-system:
+  name: progress-bar
+  version:
+---
+
 # EbayProgressBar
 The progress bar gives an immediate, real-time visualisation of the current task completion status. The progress bar's value does not include its min, so giving a value <= min will set the value to min + 1.
 

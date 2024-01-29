@@ -1,3 +1,9 @@
+---
+design-system:
+  name: modal
+  version:
+---
+
 # EbayLightboxDialog
 
 ## Usage

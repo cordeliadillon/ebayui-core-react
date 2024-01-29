@@ -1,3 +1,9 @@
+---
+design-system:
+  name: tooltip
+  version:
+---
+
 # ebay-tooltip
 
 ## Demo

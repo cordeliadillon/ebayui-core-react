@@ -1,3 +1,9 @@
+---
+design-system:
+  name: form-field
+  version:
+---
+
 # ebay-field
 
 ## Demo

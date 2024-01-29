@@ -1,3 +1,9 @@
+---
+design-system:
+  name: badge
+  version: 
+---
+
 # ebay-badge
 
 ## Demo

@@ -1,3 +1,8 @@
+---
+design-system:
+  name: infotip
+  version:
+---
 # ebay-infotip
 
 ## Demo

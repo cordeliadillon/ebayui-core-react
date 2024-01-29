@@ -1,3 +1,9 @@
+---
+design-system:
+  name: review-input
+  version:
+---
+
 # ebay-star-rating-select
 use (rating from 0-5)
 ## Demo

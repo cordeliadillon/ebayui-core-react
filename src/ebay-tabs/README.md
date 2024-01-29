@@ -1,3 +1,9 @@
+---
+design-system:
+  name: tabs
+  version:
+---
+
 # ebay-tab
 
 ## Demo
