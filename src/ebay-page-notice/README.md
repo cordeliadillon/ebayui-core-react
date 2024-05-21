@@ -1,4 +1,9 @@
-# EbayPageNotice
+---
+ds-name: alert-notice
+ds-version: 3.0
+---
+  
+  # EbayPageNotice
 
 ## Demo
 [Storybook](https://opensource.ebay.com/ebayui-core-react/main/?path=/story/notices-tips-ebay-page-notice--simple-usage)
