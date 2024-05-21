@@ -42,3 +42,8 @@ import "@ebay/skin/inline-notice";
 | `hidden`       | Boolean                                                      | No       | Determines whether the notice is hidden or not.                                                                                             | `false`       |
 | `onNoticeShow` | Function                                                     | No       | A function that is called when the notice is displayed                                                                                      | -             |
 | `children`     | React Node                                                   | No       | The content to be displayed within the notice. **Must have the EbayNoticeContent within the children!**                                     | -             |
+
+
+## Design system mapping
+- ds-name: alert-notice
+- ds-version: 3.0
